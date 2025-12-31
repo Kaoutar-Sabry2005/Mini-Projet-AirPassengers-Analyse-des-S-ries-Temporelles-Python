@@ -18,7 +18,7 @@ Ce projet analyse l'évolution mensuelle du nombre de passagers aériens interna
 - Prédictions stratégiques réalisées pour les années 1961-1962.
 
 ## 📄 Rapport
-Le rapport détaillé incluant les interprétations mathématiques et les graphiques est disponible ici : [Voir le Rapport PDF](Rapport_Projet_AirPassengers.pdf)
+Le rapport détaillé incluant les interprétations mathématiques et les graphiques est disponible ici : [Voir le Rapport PDF](Rapport_du_Mini-projet_KAOUTAR_SABRY.pdf)
 
 ---
 *Réalisé par Kaoutar Sabry - Université Ibn Zohr (2025)*
